@@ -1,0 +1,43 @@
+html, body, #viewDiv 
+{
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.full-width
+{
+    width: 100%;
+}
+
+.full-page
+{
+    display: block;
+    position: absolute;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.borderless
+{
+    border: none; 
+}
+
+p
+{
+    font-size: 2.55vmin;
+}
+h6
+{
+    font-size: 3.55vmin;
+}
+button
+{
+    font-size: 2.55vmin;
+}
+.sm-font-bootstrap-btn 
+{
+    font-size: 2.55vmin;
+}

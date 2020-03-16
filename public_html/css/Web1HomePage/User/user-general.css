@@ -1,0 +1,32 @@
+.sign-up-content {
+    background-image:url('../../../img/Web1HomePage/User/bg_signup.png');
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    background-position: center 0px;
+    max-width: 700px;
+}.top {
+    margin:0px;
+    padding:0px;
+    margin-bottom:20px;
+}
+.top-img {
+    width:100%;
+    max-height:156px;
+}
+.top-img-base {
+    position:absolute;
+    max-width: 700px;
+}
+input, select{
+    width:100%;
+    padding:5px 10px;
+    border-radius:5px;
+    border:1px solid lightgrey;
+}
+.btn-submit {
+    background-color:#89B952;
+    color:white;
+    border-radius:25px;
+    padding:3% 10%;
+    width:50%;
+}

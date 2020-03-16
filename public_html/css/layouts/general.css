@@ -1,0 +1,53 @@
+
+@media (max-width: 978px) {
+    .container {
+      padding:2rem;
+    }
+}
+input[type="date"]::-webkit-inner-spin-button {
+    display: none;
+    -webkit-appearance: none;
+}
+.content {
+    text-align:center;
+}
+#home {
+    background-image:url('../../../img/Layouts/bg_common.png');
+    background-repeat:no-repeat;
+    background-position: center center;    
+    background-size: cover;
+}
+#footer {
+    background-image:url('../../../img/Layouts/bg_footer.png');
+    background-repeat:no-repeat;
+    background-position: center center;    
+    background-size: cover;
+}
+
+.icon-bar {
+   background-color:#91C356 !important;
+}
+.navbar-brand {
+    color:#91C356 !important;
+}
+a {
+    color:#91C356 !important;
+}
+.navbar {
+    margin-bottom:0px; !important;
+}
+.nav-item {
+  text-align:right;
+}
+.my-toggler-icon.navbar-toggler {
+    border:none;
+}
+.my-toggler-icon .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(145,195,86, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.content
+{
+    position: relative; 
+    height: 85%;
+}

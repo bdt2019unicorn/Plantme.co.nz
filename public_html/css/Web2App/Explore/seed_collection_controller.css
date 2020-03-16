@@ -1,0 +1,63 @@
+#seed_collection_controller
+{
+	left: 2%; 
+	top: 55%; 
+	height: 18vh; 
+	width: 10vmax;
+}
+
+.information_icon
+{
+	height: 5vh; 
+	width: 5vh; 
+	left: 0; 
+	top: 0
+}
+
+.seed_collection_icon
+{
+	height: 5vh; 
+	width: 5vh; 
+	left: 0; 
+	top: 6vh;
+}
+
+.paper_icon
+{
+	height: 5vh; 
+	width: 5vh; 
+	left: 0; 
+	top: 12vh;
+}
+
+.seed_collection_sub_icon
+{
+	right: 0; 
+	top: 4.5vh; 
+	width: 5vmax; 
+	height: 9vh;
+}
+
+.add_seeds_icon
+{
+	height: 2vh; 
+	width: 2vh; 
+	left: 0; 
+	top: 0
+}
+
+.colection_storage_icon
+{
+	height: 2vh; 
+	width: 2vh; 
+	right: 0; 
+	top: 3.5vh;
+}
+
+.tips_icon
+{
+	height: 2vh; 
+	width: 2vh; 
+	left: 0; 
+	bottom: 0;
+}

@@ -1,0 +1,45 @@
+.common-popup
+{
+    position: absolute; 
+    display: block;
+}
+
+.main-components
+{
+    top: 7%;
+}
+
+.learn-term-components
+{
+    right: 3%; 
+    width: 80vw;
+}
+
+.learn-component 
+{
+    height: 60vh;
+}
+
+.term-component 
+{
+    height: 80vh;
+}
+
+.picture-component 
+{
+    width: 100vw; 
+    height: 93vh;
+}
+
+.picture-video-canvas 
+{
+	width: 50vw; 
+	height: 50vh;
+}
+
+.congrat-component 
+{
+    top: 25%; 
+    left: 25%; 
+    width: 40vw;
+}
